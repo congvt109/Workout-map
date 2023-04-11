@@ -55,9 +55,15 @@ a:visited {
   margin-bottom: 4rem;
 }
 
+.history-title {
+  margin: auto;
+  margin-bottom: 20px;
+}
+
 .workouts {
   list-style: none;
   height: 77vh;
+  margin-bottom: 1.5rem;
   overflow-y: scroll;
   overflow-x: hidden;
 }
